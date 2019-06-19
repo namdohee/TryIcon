@@ -15,5 +15,10 @@ namespace TryIcon
         {
             InitializeComponent();
         }
+
+        private void NtiTray_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
